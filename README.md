@@ -1,8 +1,9 @@
 # arm-2010q1
 Cross-compilation tools
+
 Cours de P. Foubet
 
-Intel i386 -> armv7 (Cortex M3/M4)
+Intel i386 32 bits -> armv7-M RISC 32 bits (Cortex M3/M4)
 
 The same pack is here :
 
